@@ -1,0 +1,10 @@
+{
+	"id": "header-focus",
+	"name": "Header Focus",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This plugin allows you to focus on a specific header in your Obsidian notes, making it easier to navigate and work with large documents.",
+	"author": "dacero",
+	"authorUrl": "https://dacero.net",
+	"isDesktopOnly": true
+}
